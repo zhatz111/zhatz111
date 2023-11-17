@@ -11,8 +11,8 @@
     - [Project 4: Quicksort vs MergeSort Algorithm Comparison](https://github.com/zhatz111/Data-Structures-JHU/tree/main/Sorting_Algorithm_Comparison)
 - <b>IBM Data Analytics Certificate</b>
   - [Data Analytics Projects](https://github.com/)
-- <b>Python</b>
-  - [Housing Mortage Interest Rate Predictor Dashboard](https://github.com/)
+- <b>Personal Projects</b>
+  - [Housing Mortage Interest Rate Predictor Dashboard](https://github.com/zhatz111/fao-dashboard-project)
 
 <!--
 <h2>📺 Popular YouTube Videos</h2>

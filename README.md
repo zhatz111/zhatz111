@@ -5,6 +5,10 @@
 - <b>Johns Hopkins University Masters Projects</b>
   - Intro to Python Programming
   - [Data Structures](https://github.com/zhatz111/Data-Structures-JHU)
+    - Project 1: [Iterative Prefix to Postfix Notation Converter](https://github.com/zhatz111/Data-Structures-JHU/tree/main/Prefix_Postfix_Converter)
+    - Project 2: [Recursive Prefix to Postfix Notation Converter](https://github.com/zhatz111/Data-Structures-JHU/tree/main/Recursive_Prefix_Postfix_Converter)
+    - Project 3: [Huffman Encoding Tree](https://github.com/zhatz111/Data-Structures-JHU/tree/main/Huffman_Encoding_Tree)
+    - Project 4: [Quicksort vs MergeSort Algorithm Comparison](https://github.com/zhatz111/Data-Structures-JHU/tree/main/Sorting_Algorithm_Comparison)
 - <b>IBM Data Analytics Certificate</b>
   - [Data Analytics Projects](https://github.com/)
 - <b>Python</b>

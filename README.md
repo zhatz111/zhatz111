@@ -2,9 +2,10 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Data Structures: Johns Hopkins University</b>
-  - [Data Structures Homework](https://github.com/)
-- <b>IBM Data Analytics Certificate (Coursera)</b>
+- <b>Johns Hopkins University Masters Projects</b>
+  - Intro to Python Programming
+  - [Data Structures](https://github.com/zhatz111/Data-Structures-JHU)
+- <b>IBM Data Analytics Certificate</b>
   - [Data Analytics Projects](https://github.com/)
 - <b>Python</b>
   - [Housing Mortage Interest Rate Predictor Dashboard](https://github.com/)

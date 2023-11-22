@@ -9,7 +9,7 @@
     - [Project 2: Recursive Prefix to Postfix Notation Converter](https://github.com/zhatz111/Data-Structures-JHU/tree/main/Recursive_Prefix_Postfix_Converter)
     - [Project 3: Huffman Encoding Tree](https://github.com/zhatz111/Data-Structures-JHU/tree/main/Huffman_Encoding_Tree)
     - [Project 4: Quicksort vs MergeSort Algorithm Comparison](https://github.com/zhatz111/Data-Structures-JHU/tree/main/Sorting_Algorithm_Comparison)
-- <b>IBM Data Analytics Certificate</b>
+- <b>IBM Data Science Certificate</b>
   - [Data Analytics Projects](https://github.com/)
 - <b>Personal Projects</b>
   - [Housing Mortage Interest Rate Predictor Dashboard](https://github.com/zhatz111/fao-dashboard-project)

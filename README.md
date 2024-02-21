@@ -3,26 +3,28 @@
 <h2>👨‍💻 Data Science Projects:</h2>
 
 - <b>Johns Hopkins University Masters Projects</b>
-  - Intro to Python Programming
+  - [Intro to Python Programming](https://github.com/zhatz111/Masters-in-Bioinformatics-JHU/tree/main/Intro%20to%20Python)
   - [Data Structures](https://github.com/zhatz111/Data-Structures-JHU)
     - [Project 1: Iterative Prefix to Postfix Notation Converter](https://github.com/zhatz111/Data-Structures-JHU/tree/main/Prefix_Postfix_Converter)
     - [Project 2: Recursive Prefix to Postfix Notation Converter](https://github.com/zhatz111/Data-Structures-JHU/tree/main/Recursive_Prefix_Postfix_Converter)
     - [Project 3: Huffman Encoding Tree](https://github.com/zhatz111/Data-Structures-JHU/tree/main/Huffman_Encoding_Tree)
     - [Project 4: Quicksort vs MergeSort Algorithm Comparison](https://github.com/zhatz111/Data-Structures-JHU/tree/main/Sorting_Algorithm_Comparison)
+  - [Algorithms for Data Science](https://github.com/zhatz111/Data-Science-Masters/tree/main/Algorithms%20for%20Data%20Science)
 - <b>IBM Data Science Certificate</b>
-  - [Data Science Projects](https://github.com/)
+  - [Data Science Projects](https://github.com/zhatz111/Data-Science-Certificates/tree/main/IBM-Data-Science)
 - <b>Personal Projects</b>
   - [Housing Mortage Interest Rate Predictor Dashboard](https://github.com/zhatz111/fao-dashboard-project)
 
+### Work Projects
+
+I'm currently working at GSK as a Senior Scientist in Upstream Process development where I've had the opportunity to take on a variety of data science projects as well. Some of these in a Model predictive controller (MPC) for process optimization and disturbance rejection, also Raman modeling of various cell metabolites. 
+
+The MPC project has taught me techniques to model various systems, in this case a fed-batch bioreactor. I trained and tested these models and performed in-silico demonstrations of this controller to show its effectivness. Raman modeling has taught me techniques such as PCA, PLS and a few feature selection algorithms like genetic algorithm.
+
+### Email: zhatz111@gmail.com
+### LinkedIn: https://www.linkedin.com/in/zacharyhatzenbeller/
+
 <!--
-<h2>📺 Popular YouTube Videos</h2>
-
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
-
 
 <h2> 🤳 Connect with me:</h2>
 
@@ -31,10 +33,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://www.youtube.com/c/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://www.linkedin.com/in/zacharyhatzenbeller/
+
 -->
 
 <!--

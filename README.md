@@ -10,7 +10,7 @@
     - [Project 3: Huffman Encoding Tree](https://github.com/zhatz111/Data-Structures-JHU/tree/main/Huffman_Encoding_Tree)
     - [Project 4: Quicksort vs MergeSort Algorithm Comparison](https://github.com/zhatz111/Data-Structures-JHU/tree/main/Sorting_Algorithm_Comparison)
   - [Algorithms for Data Science](https://github.com/zhatz111/Data-Science-Masters/tree/main/Algorithms%20for%20Data%20Science)
-    - [Project 1: Data Analysis and Processing of Iris Dataset, Tic Tac Toe AI Agent Implementation](https://github.com/zhatz111/Data-Science-Masters/blob/main/Algorithms%20for%20Data%20Science/Programming%20Assignment%201/PA1_Hatzenbeller_Zach.ipynb)
+    - [Project 1: Data Analysis and Processing of Iris Dataset](https://github.com/zhatz111/Data-Science-Masters/blob/main/Algorithms%20for%20Data%20Science/Programming%20Assignment%201/PA1_Hatzenbeller_Zach.ipynb)
     - [Project 2: Data Processing and Machine Learning of MNIST Dataset](https://github.com/zhatz111/Data-Science-Masters/blob/main/Algorithms%20for%20Data%20Science/Programming%20Assignment%202/PA2_Hatzenbeller_Zach.ipynb)
 - <b>Personal Projects</b>
   - [Automated Youtube Shorts Video Generator](https://github.com/zhatz111/YoutubeAutomation)

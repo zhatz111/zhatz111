@@ -13,7 +13,7 @@
     - [Project 1: Data Analysis and Processing of Iris Dataset, Tic Tac Toe AI Agent Implementation](https://github.com/zhatz111/Data-Science-Masters/blob/main/Algorithms%20for%20Data%20Science/Programming%20Assignment%201/PA1_Hatzenbeller_Zach.ipynb)
     - [Project 2: Data Processing and Machine Learning of MNIST Dataset](https://github.com/zhatz111/Data-Science-Masters/blob/main/Algorithms%20for%20Data%20Science/Programming%20Assignment%202/PA2_Hatzenbeller_Zach.ipynb)
 - <b>Personal Projects</b>
-  - [Automated Youtube Shorts Video Creator](https://github.com/zhatz111/YoutubeAutomation)
+  - [Automated Youtube Shorts Video Generator](https://github.com/zhatz111/YoutubeAutomation)
   - [Personal Financial Dashboard](https://github.com/zhatz111/FinancialManager)
   - [Soft Sensor Data Processing and Feature Selection for Raman](https://github.com/zhatz111/Work_Code/tree/main/Soft_Sensors)
 <!--

@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
-- <b>Johns Hopkins University Masters Projects</b>
+- <b>Johns Hopkins University Masters in Data Science Projects</b>
   - [Intro to Python Programming](https://github.com/zhatz111/Masters-in-Bioinformatics-JHU/tree/main/Intro%20to%20Python)
   - [Data Structures](https://github.com/zhatz111/Data-Structures-JHU)
     - [Project 1: Iterative Prefix to Postfix Notation Converter](https://github.com/zhatz111/Data-Structures-JHU/tree/main/Prefix_Postfix_Converter)
@@ -12,11 +12,14 @@
   - [Algorithms for Data Science](https://github.com/zhatz111/Data-Science-Masters/tree/main/Algorithms%20for%20Data%20Science)
     - [Project 1: Data Analysis and Processing of Iris Dataset, Tic Tac Toe AI Agent Implementation](https://github.com/zhatz111/Data-Science-Masters/blob/main/Algorithms%20for%20Data%20Science/Programming%20Assignment%201/PA1_Hatzenbeller_Zach.ipynb)
     - [Project 2: Data Processing and Machine Learning of MNIST Dataset](https://github.com/zhatz111/Data-Science-Masters/blob/main/Algorithms%20for%20Data%20Science/Programming%20Assignment%202/PA2_Hatzenbeller_Zach.ipynb)
+- <b>Personal Projects</b>
+  - [Automated Youtube Shorts Video Creator](https://github.com/zhatz111/YoutubeAutomation)
+  - [Personal Financial Dashboard](https://github.com/zhatz111/FinancialManager)
+  - [Soft Sensor Data Processing and Feature Selection for Raman](https://github.com/zhatz111/Work_Code/tree/main/Soft_Sensors)
+<!--
 - <b>IBM Data Science Certificate</b>
   - [Data Science Projects](https://github.com/zhatz111/Data-Science-Certificates/tree/main/IBM-Data-Science)
-- <b>Personal Projects</b>
-  - [Housing Mortage Interest Rate Predictor Dashboard](https://github.com/zhatz111/fao-dashboard-project)
-
+-->
 ### Work Projects
 
 I'm currently working at GSK as a Senior Scientist in Upstream Process development where I've had the opportunity to take on a variety of data science projects as well. Some of these in a Model predictive controller (MPC) for process optimization and disturbance rejection, also Raman modeling of various cell metabolites. 

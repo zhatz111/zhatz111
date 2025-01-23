@@ -1,4 +1,4 @@
-<h1>Hi, I'm Zach! <br/><a href="https://github.com/zhatz111">Chemical Engineer</a>, <a href="https://www.linkedin.com/in/zacharyhatzenbeller/">Data Scientist</a>, <a href="https://www.youtube.com/@ZachHatz">YouTuber</a>, <a href="sweetaura.ai">Web Developer</a></h1>
+<h1>Hi, I'm Zach! <br/><a href="https://github.com/zhatz111">Chemical Engineer</a>, <a href="https://www.linkedin.com/in/zacharyhatzenbeller/">Data Scientist</a>, <a href="https://www.youtube.com/@ZachHatz">YouTuber</a>, <a href="https://www.sweetaura.ai">Web Developer</a></h1>
 
 <h2>👨‍💻 Data Science Projects:</h2>
 
@@ -21,7 +21,7 @@
       - Dockerization to ensure the project runs consistently on any machine regardless of operating system and hardware
 - <b>Personal Projects</b>
   - [LLM AI Companion Website (Developed with React.JS and FastAPI)](https://github.com/zhatz111/AI-Companion-Project)
-    - [SweetAura.ai](sweetaura.ai)
+    - [SweetAura.ai](https://www.sweetaura.ai)
     - This website was built using react.JS, FastAPI, MongoDB, and AWS services like Amplify and EC2
     - The purpose was to utilize the ever-expanding AI LLM technology on the market to roleplay people with various personalities that user can chat and interact with
   - [Automated Youtube Shorts Video Generator using Python](https://github.com/zhatz111/YoutubeAutomation)

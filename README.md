@@ -17,7 +17,7 @@ Linear and linear time-varying (LTV) state-space Model Predictive Control framew
 
 This is the codebase backing my upcoming paper on pilot-scale linear MPC for fed-batch bioreactors.
 
-### [Crowdbite](https://github.com/zhatz111/crowdbite)
+### [Crowdbite](https://github.com/zhatz111/crowdbite-app)
 A social food review platform — think crowd-sourced restaurant reviews built around real diners rather than algorithmic noise. Currently in active development.
 
 ### [SweetAura.ai](https://www.sweetaura.ai) — [Repo](https://github.com/zhatz111/AI-Companion-Project)

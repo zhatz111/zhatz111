@@ -1,6 +1,6 @@
 <h1>Hi, I'm Zach! 👋</h1>
 
-<h3><a href="https://github.com/zhatz111">Chemical Engineer</a> • <a href="https://www.linkedin.com/in/zacharyhatzenbeller/">Senior Data Scientist</a> • <a href="https://www.youtube.com/@ZachHatz">YouTuber</a> • <a href="https://www.sweetaura.ai">Web Developer</a></h3>
+<h3><a href="https://github.com/zhatz111">Chemical Engineer</a> • <a href="https://www.linkedin.com/in/zacharyhatzenbeller/">Senior Data Scientist</a> • <a href="https://www.youtube.com/@ZachHatz">YouTuber</a> • <a href="https://www.crowdbite.app">Web Developer</a></h3>
 
 I'm a Senior Data Scientist at GSK working in upstream biopharmaceutical process development, where I build production ML systems for bioreactor modeling, model predictive control, and multivariate analysis. I hold a master's in data science from Johns Hopkins and a bachelor's in chemical engineering from Penn State. Outside of work I'm into algorithmic trading, prediction markets, and shipping side projects.
 
@@ -17,10 +17,10 @@ Linear and linear time-varying (LTV) state-space Model Predictive Control framew
 
 This is the codebase backing my upcoming paper on pilot-scale linear MPC for fed-batch bioreactors.
 
-### [Crowdbite](https://github.com/zhatz111/crowdbite-app)
+### [Crowdbite](https://www.crowdbite.app) — [Repo](https://github.com/zhatz111/crowdbite-app)
 A social food review platform — think crowd-sourced restaurant reviews built around real diners rather than algorithmic noise. Currently in active development.
 
-### [SweetAura.ai](https://www.sweetaura.ai) — [Repo](https://github.com/zhatz111/AI-Companion-Project)
+### [SweetAura.ai](https://github.com/zhatz111/AI-Companion-Project)
 LLM-powered AI companion website where users chat with characters with distinct personalities. Built with React.js, FastAPI, MongoDB, and deployed on AWS (Amplify + EC2).
 
 ### [YouTube Automation](https://github.com/zhatz111/YoutubeAutomation)
